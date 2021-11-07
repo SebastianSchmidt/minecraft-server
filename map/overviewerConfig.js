@@ -23,11 +23,11 @@ var overviewerConfig = {
         "LOWERRIGHT": 2
     },
     "worlds": [
-        "Welt 1 - overworld"
+        "welt-1 - overworld"
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1636296654",
+        "cacheTag": "1636319357",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -48,8 +48,8 @@ var overviewerConfig = {
             "path": "normalrender",
             "base": "",
             "bgcolor": "#1a1a1a",
-            "world": "Welt 1 - overworld",
-            "last_rendertime": 1636223309,
+            "world": "welt-1 - overworld",
+            "last_rendertime": 1636318569,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
