@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1636320697",
+        "cacheTag": "1636323430",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -41,7 +41,7 @@ var overviewerConfig = {
     },
     "tilesets": [
         {
-            "name": "Welt 1 (2021-11-06 19:32 Uhr)",
+            "name": "Welt 1 (2021-11-07 22:28 Uhr)",
             "zoomLevels": 8,
             "defaultZoom": 1,
             "maxZoom": 8,
