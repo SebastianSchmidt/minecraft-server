@@ -20,7 +20,7 @@ worlds['welt-1'] = './welt-1'
 
 renders['normalrender'] = {
     'world': 'welt-1',
-    'title': 'Welt 1 (2021-11-10 16:19 Uhr)',
+    'title': 'Welt 1 (2021-11-10 20:48 Uhr)',
     'rendermode': smooth_lighting,
     'dimension': 'overworld',
     'northdirection': 'upper-left',
