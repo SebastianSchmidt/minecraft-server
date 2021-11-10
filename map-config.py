@@ -20,7 +20,7 @@ worlds['welt-1'] = './welt-1'
 
 renders['normalrender'] = {
     'world': 'welt-1',
-    'title': 'Welt 1 (2021-11-08 20:55 Uhr)',
+    'title': 'Welt 1 (2021-11-10 12:00 Uhr)',
     'rendermode': smooth_lighting,
     'dimension': 'overworld',
     'northdirection': 'upper-left',
@@ -31,6 +31,8 @@ renders['normalrender'] = {
         dict(name='Spieler', checked=False, filterFunction=playerIconsFilter)
     ]
 }
+
+defaultzoom = 3
 
 texturepath = ''
 customwebassets = './assets'
