@@ -27,7 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-        "cacheTag": "1636543040",
+        "cacheTag": "1636559662",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -41,15 +41,15 @@ var overviewerConfig = {
     },
     "tilesets": [
         {
-            "name": "Welt 1 (2021-11-10 12:00 Uhr)",
-            "zoomLevels": 8,
+            "name": "Welt 1 (2021-11-10 16:19 Uhr)",
+            "zoomLevels": 9,
             "defaultZoom": 3,
-            "maxZoom": 8,
+            "maxZoom": 9,
             "path": "normalrender",
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "welt-1 - overworld",
-            "last_rendertime": 1636541837,
+            "last_rendertime": 1636557534,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",

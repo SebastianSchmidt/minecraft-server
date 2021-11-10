@@ -20,7 +20,7 @@ worlds['welt-1'] = './welt-1'
 
 renders['normalrender'] = {
     'world': 'welt-1',
-    'title': 'Welt 1 (2021-11-10 12:00 Uhr)',
+    'title': 'Welt 1 (2021-11-10 16:19 Uhr)',
     'rendermode': smooth_lighting,
     'dimension': 'overworld',
     'northdirection': 'upper-left',
@@ -29,7 +29,9 @@ renders['normalrender'] = {
         dict(name='Heimatorte', checked=True, filterFunction=playerHomeFilter, icon='markers/marker_player_home.png'),
         dict(name='Burgen', checked=True, filterFunction=castleFilter, icon='markers/marker_tower.png'),
         dict(name='Spieler', checked=False, filterFunction=playerIconsFilter)
-    ]
+    ],
+    'center': [162, 80, -1463],
+    'crop': (-2338, -3963, 2662, 1037)
 }
 
 defaultzoom = 3
