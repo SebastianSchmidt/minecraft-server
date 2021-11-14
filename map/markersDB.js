@@ -1,5 +1,5 @@
 var markersDB={
-  "Burgen16c9_f48c": {
+  "Burgenbfc8_3b27": {
     "created": false,
     "name": "Burgen",
     "raw": [
@@ -12,7 +12,7 @@ var markersDB={
       }
     ]
   },
-  "Heimatorte16eb_f48c": {
+  "Heimatortebf95_3b27": {
     "created": false,
     "name": "Heimatorte",
     "raw": [
@@ -32,41 +32,49 @@ var markersDB={
       }
     ]
   },
-  "Spielere940_f48c": {
+  "Spieler4030_3b27": {
     "created": false,
     "name": "Spieler",
     "raw": [
       {
+        "hovertext": "Letzte bekannte Position von YlvaKeena",
+        "icon": "https://overviewer.org/avatar/YlvaKeena",
+        "text": "Letzte bekannte Position von YlvaKeena",
+        "x": 301.67151737606065,
+        "y": 71.0,
+        "z": -1589.300000011921
+      },
+      {
         "hovertext": "Letzte bekannte Position von Anni_922",
         "icon": "https://overviewer.org/avatar/Anni_922",
         "text": "Letzte bekannte Position von Anni_922",
-        "x": 300.61585745864903,
+        "x": 299.04279232118574,
         "y": 71.0,
-        "z": -1589.5797325319375
+        "z": -1589.482500287329
       },
       {
         "hovertext": "Letzte bekannte Position von Fredie011",
         "icon": "https://overviewer.org/avatar/Fredie011",
         "text": "Letzte bekannte Position von Fredie011",
-        "x": 244.60850162565046,
-        "y": 14.0,
-        "z": -1392.8471386914582
+        "x": 306.9810074717969,
+        "y": 64.0,
+        "z": -1428.2332755411744
       },
       {
         "hovertext": "Letzte bekannte Position von Basti93",
         "icon": "https://overviewer.org/avatar/Basti93",
         "text": "Letzte bekannte Position von Basti93",
-        "x": 162.157563294394,
-        "y": 72.0625,
-        "z": -1463.0633585308478
+        "x": 298.1217304670842,
+        "y": 71.0,
+        "z": -1582.9249036733402
       },
       {
         "hovertext": "Letzte bekannte Position von Maggistrus",
         "icon": "https://overviewer.org/avatar/Maggistrus",
         "text": "Letzte bekannte Position von Maggistrus",
-        "x": 30.6250379065176,
-        "y": 30.0,
-        "z": -1268.3000510122454
+        "x": 106.08730865799224,
+        "y": 77.0,
+        "z": -1293.3876897518458
       }
     ]
   }
