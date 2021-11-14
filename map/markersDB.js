@@ -1,5 +1,5 @@
 var markersDB={
-  "Burgenbfc8_3b27": {
+  "Burgendfc8_10c2": {
     "created": false,
     "name": "Burgen",
     "raw": [
@@ -12,7 +12,7 @@ var markersDB={
       }
     ]
   },
-  "Heimatortebf95_3b27": {
+  "Heimatortedf95_10c2": {
     "created": false,
     "name": "Heimatorte",
     "raw": [
@@ -32,7 +32,7 @@ var markersDB={
       }
     ]
   },
-  "Spieler4030_3b27": {
+  "Spieler2030_10c2": {
     "created": false,
     "name": "Spieler",
     "raw": [
@@ -48,25 +48,25 @@ var markersDB={
         "hovertext": "Letzte bekannte Position von Anni_922",
         "icon": "https://overviewer.org/avatar/Anni_922",
         "text": "Letzte bekannte Position von Anni_922",
-        "x": 299.04279232118574,
-        "y": 71.0,
-        "z": -1589.482500287329
+        "x": 333.08267935195704,
+        "y": 48.0,
+        "z": -1574.0238567931492
       },
       {
         "hovertext": "Letzte bekannte Position von Fredie011",
         "icon": "https://overviewer.org/avatar/Fredie011",
         "text": "Letzte bekannte Position von Fredie011",
-        "x": 306.9810074717969,
-        "y": 64.0,
-        "z": -1428.2332755411744
+        "x": 183.8878053980043,
+        "y": 57.0,
+        "z": -1410.300000011921
       },
       {
         "hovertext": "Letzte bekannte Position von Basti93",
         "icon": "https://overviewer.org/avatar/Basti93",
         "text": "Letzte bekannte Position von Basti93",
-        "x": 298.1217304670842,
-        "y": 71.0,
-        "z": -1582.9249036733402
+        "x": 1100.5,
+        "y": 100.0,
+        "z": -2049.5
       },
       {
         "hovertext": "Letzte bekannte Position von Maggistrus",
