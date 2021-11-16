@@ -4,7 +4,7 @@ var markers={
       "checked": true,
       "createInfoWindow": true,
       "displayName": "Heimatorte",
-      "groupName": "Heimatortedf95_10c2",
+      "groupName": "Heimatorte0f95_f389",
       "icon": "markers/marker_player_home.png",
       "showIconInLegend": false
     },
@@ -12,7 +12,7 @@ var markers={
       "checked": true,
       "createInfoWindow": true,
       "displayName": "Burgen",
-      "groupName": "Burgendfc8_10c2",
+      "groupName": "Burgen0fc8_f389",
       "icon": "markers/marker_tower.png",
       "showIconInLegend": false
     },
@@ -20,7 +20,7 @@ var markers={
       "checked": false,
       "createInfoWindow": true,
       "displayName": "Spieler",
-      "groupName": "Spieler2030_10c2",
+      "groupName": "Spielerf030_f389",
       "icon": "signpost_icon.png",
       "showIconInLegend": false
     }

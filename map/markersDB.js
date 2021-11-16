@@ -1,5 +1,5 @@
 var markersDB={
-  "Burgendfc8_10c2": {
+  "Burgen0fc8_f389": {
     "created": false,
     "name": "Burgen",
     "raw": [
@@ -12,10 +12,17 @@ var markersDB={
       }
     ]
   },
-  "Heimatortedf95_10c2": {
+  "Heimatorte0f95_f389": {
     "created": false,
     "name": "Heimatorte",
     "raw": [
+      {
+        "hovertext": "Heimat von YlvaKeena ",
+        "text": "Heimat von YlvaKeena ",
+        "x": -609,
+        "y": 75,
+        "z": -1179
+      },
       {
         "hovertext": "Heimat von Anni_922 ",
         "text": "Heimat von Anni_922 ",
@@ -32,7 +39,7 @@ var markersDB={
       }
     ]
   },
-  "Spieler2030_10c2": {
+  "Spielerf030_f389": {
     "created": false,
     "name": "Spieler",
     "raw": [
@@ -40,41 +47,41 @@ var markersDB={
         "hovertext": "Letzte bekannte Position von YlvaKeena",
         "icon": "https://overviewer.org/avatar/YlvaKeena",
         "text": "Letzte bekannte Position von YlvaKeena",
-        "x": 301.67151737606065,
-        "y": 71.0,
-        "z": -1589.300000011921
+        "x": -586.4163445779078,
+        "y": 63.0,
+        "z": -1131.4834675503632
       },
       {
         "hovertext": "Letzte bekannte Position von Anni_922",
         "icon": "https://overviewer.org/avatar/Anni_922",
         "text": "Letzte bekannte Position von Anni_922",
-        "x": 333.08267935195704,
-        "y": 48.0,
-        "z": -1574.0238567931492
+        "x": 211.54027928405293,
+        "y": 64.0,
+        "z": -1492.4966685787567
       },
       {
         "hovertext": "Letzte bekannte Position von Fredie011",
         "icon": "https://overviewer.org/avatar/Fredie011",
         "text": "Letzte bekannte Position von Fredie011",
-        "x": 183.8878053980043,
-        "y": 57.0,
-        "z": -1410.300000011921
+        "x": 310.79281326687834,
+        "y": 68.0,
+        "z": -1435.8021493039591
       },
       {
         "hovertext": "Letzte bekannte Position von Basti93",
         "icon": "https://overviewer.org/avatar/Basti93",
         "text": "Letzte bekannte Position von Basti93",
-        "x": 1100.5,
-        "y": 100.0,
-        "z": -2049.5
+        "x": -295.6829472596802,
+        "y": 107.12500344008191,
+        "z": -2445.0992667979613
       },
       {
         "hovertext": "Letzte bekannte Position von Maggistrus",
         "icon": "https://overviewer.org/avatar/Maggistrus",
         "text": "Letzte bekannte Position von Maggistrus",
-        "x": 106.08730865799224,
-        "y": 77.0,
-        "z": -1293.3876897518458
+        "x": 112.68135933666962,
+        "y": 80.0,
+        "z": -1274.3955634790013
       }
     ]
   }
