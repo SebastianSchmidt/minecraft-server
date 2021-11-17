@@ -1,5 +1,5 @@
 var markersDB={
-  "Burgen0fc8_f389": {
+  "Burgen9fc8_9a21": {
     "created": false,
     "name": "Burgen",
     "raw": [
@@ -12,7 +12,7 @@ var markersDB={
       }
     ]
   },
-  "Heimatorte0f95_f389": {
+  "Heimatorte9f95_9a21": {
     "created": false,
     "name": "Heimatorte",
     "raw": [
@@ -39,7 +39,7 @@ var markersDB={
       }
     ]
   },
-  "Spielerf030_f389": {
+  "Spieler6030_9a21": {
     "created": false,
     "name": "Spieler",
     "raw": [
@@ -47,33 +47,33 @@ var markersDB={
         "hovertext": "Letzte bekannte Position von YlvaKeena",
         "icon": "https://overviewer.org/avatar/YlvaKeena",
         "text": "Letzte bekannte Position von YlvaKeena",
-        "x": -586.4163445779078,
-        "y": 63.0,
-        "z": -1131.4834675503632
+        "x": -608.8218778326285,
+        "y": 76.0,
+        "z": -1191.699999988079
       },
       {
         "hovertext": "Letzte bekannte Position von Anni_922",
         "icon": "https://overviewer.org/avatar/Anni_922",
         "text": "Letzte bekannte Position von Anni_922",
-        "x": 211.54027928405293,
-        "y": 64.0,
-        "z": -1492.4966685787567
+        "x": 373.0706173150686,
+        "y": 72.5,
+        "z": -1567.0008244903922
       },
       {
         "hovertext": "Letzte bekannte Position von Fredie011",
         "icon": "https://overviewer.org/avatar/Fredie011",
         "text": "Letzte bekannte Position von Fredie011",
-        "x": 310.79281326687834,
-        "y": 68.0,
-        "z": -1435.8021493039591
+        "x": 303.23750001192093,
+        "y": 64.0,
+        "z": -1427.7883032833067
       },
       {
         "hovertext": "Letzte bekannte Position von Basti93",
         "icon": "https://overviewer.org/avatar/Basti93",
         "text": "Letzte bekannte Position von Basti93",
-        "x": -295.6829472596802,
-        "y": 107.12500344008191,
-        "z": -2445.0992667979613
+        "x": 229.05169379610723,
+        "y": 7.0,
+        "z": -1421.699999988079
       },
       {
         "hovertext": "Letzte bekannte Position von Maggistrus",
