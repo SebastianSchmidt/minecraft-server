@@ -1,5 +1,5 @@
 var markersDB={
-  "Burgen9fc8_9a21": {
+  "Burgen8fc8_f120": {
     "created": false,
     "name": "Burgen",
     "raw": [
@@ -12,7 +12,7 @@ var markersDB={
       }
     ]
   },
-  "Heimatorte9f95_9a21": {
+  "Heimatorte8f95_f120": {
     "created": false,
     "name": "Heimatorte",
     "raw": [
@@ -39,7 +39,7 @@ var markersDB={
       }
     ]
   },
-  "Spieler6030_9a21": {
+  "Spieler7030_f120": {
     "created": false,
     "name": "Spieler",
     "raw": [
@@ -71,9 +71,9 @@ var markersDB={
         "hovertext": "Letzte bekannte Position von Basti93",
         "icon": "https://overviewer.org/avatar/Basti93",
         "text": "Letzte bekannte Position von Basti93",
-        "x": 229.05169379610723,
-        "y": 7.0,
-        "z": -1421.699999988079
+        "x": 152.77164688927496,
+        "y": 64.0,
+        "z": -1467.5158057717483
       },
       {
         "hovertext": "Letzte bekannte Position von Maggistrus",
